@@ -1,4 +1,4 @@
-# expenses
+# expenses -
 
 ## Project setup
 ```
